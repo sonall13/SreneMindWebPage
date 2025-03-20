@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - SereneMind</title>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p><strong>Effective Date:</strong> [Insert Date]</p>
+    <p><strong>Last Updated:</strong> [Insert Date]</p>
+    
+    <h2>1. Acceptance of Terms</h2>
+    <p>By downloading, installing, or using SereneMind, you acknowledge that you have read, understood, and agreed to these Terms of Service. If you do not agree, please do not use the app.</p>
+    
+    <h2>2. Use of the App</h2>
+    <p>You agree to use SereneMind only for its intended purposes, including:</p>
+    <ul>
+        <li>Journaling and self-reflection</li>
+        <li>Using the calendar and emoji tracking</li>
+        <li>Personal development and mindfulness</li>
+    </ul>
+    <p>You may <strong>not</strong>:</p>
+    <ul>
+        <li>Use the app for illegal or harmful activities</li>
+        <li>Attempt to hack, modify, or disrupt the service</li>
+        <li>Violate any applicable laws while using the app</li>
+    </ul>
+    
+    <h2>3. User Accounts & Data</h2>
+    <p>To use certain features, you may need to create an account. You agree to:</p>
+    <ul>
+        <li>Provide accurate and up-to-date information</li>
+        <li>Keep your login credentials secure</li>
+        <li>Accept that we may collect and store data as outlined in our Privacy Policy</li>
+    </ul>
+    
+    <h2>4. Intellectual Property</h2>
+    <p>SereneMind and all its content, logos, designs, and trademarks are the property of [Your Company Name]. You may not copy, distribute, or modify any part of the app without our permission.</p>
+    
+    <h2>5. Third-Party Services</h2>
+    <p>SereneMind uses third-party services such as:</p>
+    <ul>
+        <li><strong>Google Firebase</strong> – For data storage and analytics</li>
+        <li><strong>Google Play Services</strong> – For updates and crash reporting</li>
+    </ul>
+    <p>By using the app, you also agree to their respective terms and privacy policies.</p>
+    
+    <h2>6. Termination of Use</h2>
+    <p>We reserve the right to suspend or terminate your account if you:</p>
+    <ul>
+        <li>Violate these Terms of Service</li>
+        <li>Engage in harmful activities</li>
+        <li>Abuse the app’s services</li>
+    </ul>
+    
+    <h2>7. Limitation of Liability</h2>
+    <p>SereneMind is provided “as is” without any warranties. We are not responsible for:</p>
+    <ul>
+        <li>Any data loss or service interruptions</li>
+        <li>Any harm caused by third-party services</li>
+        <li>Any issues arising from misuse of the app</li>
+    </ul>
+    
+    <h2>8. Changes to Terms</h2>
+    <p>We may update these Terms of Service from time to time. Continued use of the app after changes means you accept the new terms.</p>
+    
+    <h2>9. Contact Us</h2>
+    <p>If you have any questions about these Terms of Service, contact us:</p>
+    <p><strong>Email:</strong> [Your Email]</p>
+    <p><strong>Website:</strong> [Your Website]</p>
+</body>
+</html>
